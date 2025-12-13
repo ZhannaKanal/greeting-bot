@@ -9,3 +9,5 @@ console.log(botIntroduction);
 let botLocationSentence = "I live in " + botLocation + ".";
 console.log(botLocationSentence);
 bot = "professorBot";
+let nicknameIntroduction = "My nickname is " + bot + ".";
+console.log(nicknameIntroduction);
