@@ -1,4 +1,4 @@
-console.log("Hello! I'm your coding fun fact guide!")
+console.log("Hello! I'm your coding fun fact guide!");
 let botName = "Trivia Bot";
 let botLocation;
 botLocation = "USA";
@@ -12,5 +12,16 @@ codingFact = "I liked " + favoriteLanguage;
 console.log(codingFact);
 codingFact = "I would like love " + favoriteLanguage;
 console.log(codingFact);
-console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
-console.log(subject[0])
+console.log(
+  "It was fun sharing these facts with you. Goodbye! - " +
+    botName +
+    " from " +
+    botLocation +
+    "."
+);
+console.log(subject[0]);
+console.log(
+  `Here is an example of accessing the second letter in the word ${subject}.`
+);
+
+console.log(subject[1]);
