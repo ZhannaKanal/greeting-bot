@@ -11,3 +11,4 @@ console.log(codingFact);
 codingFact = "I liked " + favoriteLanguage;
 console.log(codingFact);
 codingFact = "I would like love " + favoriteLanguage;
+console.log(codingFact);
