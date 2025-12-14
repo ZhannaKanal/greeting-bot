@@ -1,2 +1,4 @@
 console.log("Hi there!");
-let botName = "teacherBot";
+const botName = "teacherBot";
+const greeting = `My name is ${botName}.`;
+console.log(greeting);
