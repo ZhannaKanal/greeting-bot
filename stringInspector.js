@@ -14,3 +14,6 @@ console.log(
 );
 const message = "Welcome to freeCodeCamp!";
 console.log("Here are some examples of the slice() method:");
+
+const platform = message.slice(11,23);
+
