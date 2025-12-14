@@ -43,3 +43,4 @@ let secondStory =
   " nostrils that blew fire when it was " +
   verb +
   ".";
+console.log("Second story: " + secondStory);
