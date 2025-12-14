@@ -4,3 +4,4 @@ let botLocation;
 botLocation = "USA";
 let favoriteLanguage;
 favoriteLanguage = "JavaScript";
+console.log("My name is "+botName+" and I live on "+botLocation+".");
