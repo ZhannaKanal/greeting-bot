@@ -13,3 +13,4 @@ console.log(codingFact);
 codingFact = "I would like love " + favoriteLanguage;
 console.log(codingFact);
 console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
+console.log(subject[0])
