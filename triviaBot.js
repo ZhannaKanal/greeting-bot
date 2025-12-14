@@ -10,3 +10,4 @@ let codingFact = "I like " + favoriteLanguage;
 console.log(codingFact);
 codingFact = "I liked " + favoriteLanguage;
 console.log(codingFact);
+codingFact = "I would like love " + favoriteLanguage;
