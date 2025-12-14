@@ -8,3 +8,4 @@ console.log("My name is " + botName + " and I live on " + botLocation + ".");
 console.log("My favorite programming language is " + favoriteLanguage + ".");
 let codingFact = "I like " + favoriteLanguage;
 console.log(codingFact);
+codingFact = "I liked " + favoriteLanguage;
