@@ -24,3 +24,6 @@ console.log("First story: " + firstStory);
 adjective = "new";
 noun = "book";
 verb = "take";
+place = "launge bar";
+adjective2 = "old";
+noun2 = "flower";
