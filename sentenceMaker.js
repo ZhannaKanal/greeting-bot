@@ -20,4 +20,7 @@ let firstStory =
   " nostrils that blew fire when it was " +
   verb +
   ".";
-console.log("First story: "+firstStory);
+console.log("First story: " + firstStory);
+adjective = "new";
+noun = "book";
+verb = "take";
