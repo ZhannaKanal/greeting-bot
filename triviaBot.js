@@ -30,3 +30,6 @@ console.log(
   `Here is an example of accessing the last letter in the word ${subject}.`
 );
 console.log(subject[subject.length - 1]);
+
+const lastCharacter = subject[subject.length - 1];
+console.log(lastCharacter);
