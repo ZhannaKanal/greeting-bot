@@ -33,3 +33,5 @@ console.log(subject[subject.length - 1]);
 
 const lastCharacter = subject[subject.length - 1];
 console.log(lastCharacter);
+
+const learningIsFunSentence = "Learning is fun.";
