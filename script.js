@@ -13,7 +13,7 @@ console.log(`Score is still ${finalScore}`);
 let coins = 3;
 console.log(`Coins is currently ${coins}`);
 
-let updatedCoins = coins--;
+let updatedCoins = --coins;
 console.log(`Coins is now ${updatedCoins}`);
 
 let health = 7;
