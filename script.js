@@ -1,21 +1,23 @@
-console.log("Hi there!");
-console.log("I am excited to talk to you.");
-let bot;
-bot = "teacherBot";
-let botLocation = "the universe";
-console.log("Allow me to introduce myself.");
-let botIntroduction = "My name is " + bot + ".";
-console.log(botIntroduction);
-let botLocationSentence = "I live in " + botLocation + ".";
-console.log(botLocationSentence);
-bot = "professorBot";
-let nicknameIntroduction = "My nickname is " + bot + ".";
-console.log(nicknameIntroduction);
-bot = "awesomeTeacherBot";
-let newNicknameGreeting =
-  "I love my nickname but I wish people would call me " + bot + ".";
-console.log(newNicknameGreeting);
-let favoriteSubject = "Computer Science";
-let favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
-console.log(favoriteSubjectSentence);
-console.log("Well, it was nice to talk to you. Have a nice day!");
+let counter = 10;
+console.log(`Counter is currently ${counter}`);
+
+let updatedCounter = ++counter;
+console.log(`Counter is now ${updatedCounter}`);
+
+let score = 8;
+console.log(`Score is currently ${score}`);
+
+let finalScore = ++score;
+console.log(`Score is still ${finalScore}`);
+
+let coins = 3;
+console.log(`Coins is currently ${coins}`);
+
+let updatedCoins = coins--;
+console.log(`Coins is now ${updatedCoins}`);
+
+let health = 7;
+console.log(`Health is currently ${health}`);
+
+let newHealth = --health;
+console.log(`Health is still ${newHealth}`);
