@@ -10,7 +10,7 @@ console.log(`1 + 5 = ${thirdResult}`);
 const fourthResult = 0 + 8;
 console.log(`0 + 8 = ${fourthResult}`);
 
-const fifthResult = "10" * 2;
+const fifthResult = 10 * 2;
 console.log(`10 * 2 = ${fifthResult}`);
 
 const sixthResult = null + 22;
