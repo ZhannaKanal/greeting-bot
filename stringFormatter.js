@@ -17,6 +17,7 @@ const lowerCaseInput = cleanedInput.toLowerCase()
 console.log("Result of using the toLowerCase() method:")
 console.log(lowerCaseInput)
 const lowercaseWord = "camelcase";
-let camelCasedVersion = "";
+const camelCasedVersion = ""+lowercaseWord.slice(0,5)+""
+
 console.log("Camel cased version:")
 console.log(camelCasedVersion)
