@@ -4,7 +4,7 @@ console.log(`5 + 10 = ${firstResult}`);
 const secondResult = "8" - 5;
 console.log(`8 - 5 = ${secondResult}`);
 
-const thirdResult = true + 5;
+const thirdResult = 1 + 5;
 console.log(`1 + 5 = ${thirdResult}`);
 
 const fourthResult = false + 8;
