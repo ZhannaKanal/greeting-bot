@@ -1,4 +1,4 @@
-const firstResult = 5 + "10";
+const firstResult = 5 + 10;
 console.log(`5 + 10 = ${firstResult}`);
 
 const secondResult = "Eight" - 5;
