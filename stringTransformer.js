@@ -11,3 +11,7 @@ const dogsOnlySentence = exampleSentence.replaceAll("cats", "dogs");
 
 console.log("Replacing all occurrences of cats with dogs:")
 console.log(dogsOnlySentence)
+
+const learningSentence = "I love learning!";
+console.log("Original learning sentence:");
+console.log(learningSentence)
