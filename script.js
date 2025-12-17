@@ -19,5 +19,5 @@ console.log(`Coins is now ${updatedCoins}`);
 let health = 7;
 console.log(`Health is currently ${health}`);
 
-let newHealth = health--;
+let newHealth = health++;
 console.log(`Health is still ${newHealth}`);
