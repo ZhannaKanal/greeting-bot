@@ -7,7 +7,7 @@ console.log(`Counter is now ${updatedCounter}`);
 let score = 8;
 console.log(`Score is currently ${score}`);
 
-let finalScore = ++score;
+let finalScore = score++;
 console.log(`Score is still ${finalScore}`);
 
 let coins = 3;
