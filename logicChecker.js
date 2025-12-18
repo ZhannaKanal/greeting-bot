@@ -2,4 +2,8 @@ const hasDeveloperJob = true;
 if(hasDeveloperJob){
   console.log("Timmy is employed as a developer.")
 }
-const isTimmyAGamer = false
+const isTimmyAGamer = false;
+if(isTimmyAGamer){
+  console.log("Timmy loves to play World of Warcraft.")
+}
+
