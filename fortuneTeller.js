@@ -23,3 +23,5 @@ else if (randomNumber == 4) {
 else if (randomNumber == 5) {
   selectedFortune = fortune5;
 }
+
+console.log(selectedFortune)
