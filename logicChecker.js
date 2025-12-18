@@ -1,0 +1,1 @@
+const hasDeveloperJob = true
