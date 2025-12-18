@@ -1,3 +1,3 @@
-const truthyOrFalsy = "freeCodeCamp";
+const truthyOrFalsy = "";
 
 console.log(Boolean(truthyOrFalsy));
