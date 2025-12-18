@@ -22,3 +22,5 @@ const randomInt = Math.floor(Math.random()*(max-min));
 console.log(randomInt)
 
 console.log("The Math.ceil() method rounds the value up to the nearest whole integer.")
+const numRoundedUp = Math.ceil(3.2);
+console.log(numRoundedUp)
