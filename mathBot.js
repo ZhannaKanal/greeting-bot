@@ -30,3 +30,5 @@ const numRounded = Math.round(2.7)
 const numRounded2 = Math.round(11.2)
 console.log(numRounded)
 console.log(numRounded2)
+
+console.log("The Math.max() and Math.min() methods are used to get the maximum and minimum number from a range.")
