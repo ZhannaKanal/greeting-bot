@@ -1,7 +1,6 @@
 const calculateSum = (num1, num2) => {
     return num1+num2;
 }
-
 console.log(calculateSum(2,5));
 console.log(calculateSum(10,10))
 console.log(calculateSum(5, 5))
@@ -31,3 +30,5 @@ console.log(calculateQuotient(3, 0));
 const calculateSquare = (num) => {
   return Math.pow(num,2)
 }
+console.log(calculateSquare(2))
+console.log(calculateSquare(9))
