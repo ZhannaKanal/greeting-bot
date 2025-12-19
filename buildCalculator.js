@@ -9,3 +9,4 @@ console.log(calculateSum(5, 5))
 const calculateDifference = (num1, num2)=>{
   return num1-num2;
 }
+console.log(calculateDifference(22,5))
