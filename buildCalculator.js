@@ -14,5 +14,5 @@ console.log(calculateDifference(12,1))
 console.log(calculateDifference(17, 9))
 
 const calculateProduct = (num1, num2) => {
-  
+  return num1* num2;
 }
