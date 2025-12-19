@@ -32,3 +32,7 @@ const calculateSquare = (num) => {
 }
 console.log(calculateSquare(2))
 console.log(calculateSquare(9))
+
+const calculateSquareRoot = (num) =>{
+  return Math.sqrt(num);
+}
