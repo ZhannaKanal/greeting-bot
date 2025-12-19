@@ -36,3 +36,5 @@ console.log(calculateSquare(9))
 const calculateSquareRoot = (num) =>{
   return Math.sqrt(num);
 }
+console.log(calculateSquareRoot(25))
+console.log(calculateSquareRoot(100))
