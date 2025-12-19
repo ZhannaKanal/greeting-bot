@@ -27,3 +27,7 @@ const calculateQuotient = (num1, num2) => {
 }
 console.log(calculateQuotient(7, 11))
 console.log(calculateQuotient(3, 0));
+
+const calculateSquare = (num) => {
+  return Math.pow(num,2)
+}
