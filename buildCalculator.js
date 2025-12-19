@@ -1,1 +1,3 @@
-function addTwoAndSeven(){}
+function addTwoAndSeven() {
+    return 2+7;
+}
