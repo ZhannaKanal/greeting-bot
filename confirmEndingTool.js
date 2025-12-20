@@ -1,5 +1,7 @@
 const confirmEnding = (str1, str2) => {
-  if(str1[str1.length-1]===str2[0]){
+  if(str1.includes(str2)){
     return true;
+  }else{
+    return false;
   }
 }
