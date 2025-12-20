@@ -1,7 +1,3 @@
 const confirmEnding = (str1, str2) => {
-  if(str1.includes(str2)){
-    return true;
-  }else{
-    return false;
-  }
+  const sliced = str1.slice(-str2.length);
 }
