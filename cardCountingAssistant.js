@@ -11,3 +11,4 @@ const cardCounter = card => {
     return count + " Hold"
   }
 }
+console.log(cardCounter(9))
