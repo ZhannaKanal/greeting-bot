@@ -5,3 +5,7 @@ const minIncomeForCondo = 45000;
 const minCreditScoreForCondo = 680;
 const minIncomeForCar = 30000;
 const minCreditScoreForCar = 650;
+
+const getLoanMessage = (annualIncome, creditScore) =>{
+  
+}
