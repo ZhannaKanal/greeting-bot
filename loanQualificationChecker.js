@@ -12,5 +12,7 @@ const getLoanMessage = (annualIncome, creditScore) => {
     return "You qualify for a condo and car loan.";
   } else if (annualIncome >= minIncomeForCar && creditScore >= minCreditScoreForCar) {
     return "You qualify for a car loan."
+  } else {
+    return "You don't qualify for any loans."
   }
 };
