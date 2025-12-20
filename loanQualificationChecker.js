@@ -16,6 +16,7 @@ const getLoanMessage = (annualIncome, creditScore) => {
     return "You don't qualify for any loans."
   }
 };
+
 const duplexLoanMsg = getLoanMessage(85000, 850);
 const condoLoanMsg = getLoanMessage(65000, 690);
 const carLoanMsg = getLoanMessage(45000, 660);
