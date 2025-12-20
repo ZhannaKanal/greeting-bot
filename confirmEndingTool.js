@@ -3,5 +3,7 @@ const confirmEnding = (str1, str2) => {
     console.log(sliced)
     if (sliced === str2) {
         return true;
+    } else {
+        return false;
     }
 }
