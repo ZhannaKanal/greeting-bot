@@ -5,3 +5,4 @@ const booWho = (num) => {
     return false;
   }
 };
+console.log(booWho(true))
