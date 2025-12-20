@@ -1,4 +1,7 @@
 const confirmEnding = (str1, str2) => {
     const sliced = str1.slice(-str2.length);
-    return sliced === str2;
+    console.log(sliced)
+    if (sliced === str2) {
+        return true;
+    }
 }
