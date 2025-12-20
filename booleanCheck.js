@@ -1,7 +1,7 @@
-const booWho = num => {
-  if(typeof num === "boolean"){
+const booWho = (num) => {
+  if (typeof num === "boolean") {
     return true;
-  }else{
+  } else {
     return false;
   }
-}
+};
